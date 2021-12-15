@@ -46,4 +46,4 @@ The goal is to determine which projects can be delivered and what subcontractors
 between the value of all delivered projects and the cost of all required
 subcontractors, is at least €2500.
 - Solve the CP-SAT model and determine how many possible solutions satisfy all the
-constraints. For each solution, determine what projects are taken on, which contractors work on which projects in which month [1 point], and what is the profit margin.
+constraints. For each solution, determine what projects are taken on, which contractors work on which projects in which month, and what is the profit margin.
