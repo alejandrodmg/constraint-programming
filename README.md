@@ -14,7 +14,7 @@ The student from Canada is a historian or will go to Oxford (6).
 The student from South Africa is going to Edinburgh or will study Law (7).
 ```
 
-*What is the nationality of the architecture student?*
+**What is the nationality of the architecture student?**
 
 Steps:
 
@@ -29,10 +29,10 @@ Steps:
 
 A constraint satisfaction problem model for deciding what projects can be taken on and what companies need to be contracted to deliver on these projects. 
 
-- In the *Projects* sheet you will find a list of projects, for each projects the jobs that need to be carried out and the months this needs to happen (e.g. Project E required Job J in month M8 and Job A in month M9).
-- In the *Quotes* sheet you will find a list of contractors and their quotes for each of the jobs they are qualified to carry out (e.g. Contractor A charges €230 for Job A). A contractor can only work in one project at a time.
-- In the *Dependencies* sheet you will find a matrix of project dependencies indicating which projects are pre-requisites for the delivery of other projects (e.g. Project B can only be taken on, if also Project A is taken on).
-- In the *Value* sheet you will find the value of each project (e.g. Project A is worth €500).
+- In the **Projects** sheet you will find a list of projects, for each projects the jobs that need to be carried out and the months this needs to happen (e.g. Project E required Job J in month M8 and Job A in month M9).
+- In the **Quotes** sheet you will find a list of contractors and their quotes for each of the jobs they are qualified to carry out (e.g. Contractor A charges €230 for Job A). A contractor can only work in one project at a time.
+- In the **Dependencies** sheet you will find a matrix of project dependencies indicating which projects are pre-requisites for the delivery of other projects (e.g. Project B can only be taken on, if also Project A is taken on).
+- In the **Value** sheet you will find the value of each project (e.g. Project A is worth €500).
 
 The goal is to determine which projects can be delivered and what subcontractors should be contracted while making sure that the overall profit margin is at least €2500.
 
