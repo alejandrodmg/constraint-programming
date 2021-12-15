@@ -36,6 +36,8 @@ A constraint satisfaction problem model for deciding what projects can be taken 
 
 The goal is to determine which projects can be delivered and what subcontractors should be contracted while making sure that the overall profit margin is at least €2500.
 
+Steps:
+
 - Load the excel file data.xlsx and extract all relevant information. Make sure to use the data from the file in your code, please do not hardcode any values that can be read from the file.
 - Identify and create the decision variables in a CP-SAT model that you need to decide what projects to take on. Also identify and create the decision variables you need to decide, which contractor is working on which project and when. Make sure to consider that not all contractors are qualified to work on all jobs and that projects do not run over all months.
 - Define and implement the constraint that a contractor cannot work on two projects simultaneously.
